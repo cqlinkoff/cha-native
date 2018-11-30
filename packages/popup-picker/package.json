@@ -1,0 +1,26 @@
+{
+  "name": "@cqlinkoff/react-native-popup-picker",
+  "version": "1.0.0",
+  "description": "react native popup picker",
+  "main": "lib/index.js",
+  "module": "es/index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cqlinkoff/cha-native/tree/master/packages/popup-picker"
+  },
+  "keywords": [
+    "react",
+    "react-native",
+    "react-native-component",
+    "popup-picker"
+  ],
+  "author": "kagawagao <kingsongao1221@gmail.com>",
+  "license": "MIT",
+  "engines": {
+    "node": ">= 6.9.0",
+    "npm": ">= 5.0.0"
+  }
+}

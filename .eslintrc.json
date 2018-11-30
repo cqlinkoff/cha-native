@@ -1,0 +1,23 @@
+{
+  "parser": "babel-eslint",
+  "extends": [
+    "standard",
+    "standard-react",
+    "plugin:react-native/all"
+  ],
+  "plugins": [
+    "react",
+    "react-native",
+    "prettier"
+  ],
+  "env": {
+    "react-native/react-native": true
+  },
+  "rules": {
+    "react-native/no-color-literals": "off",
+    "react-native/no-inline-styles": "off",
+    "prettier/prettier": "error",
+    "space-before-function-paren": "off",
+    "jsx-quotes": "off"
+  }
+}
